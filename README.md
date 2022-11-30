@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Singha-Akash
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on android dev community
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on web dev community
 - 📫 How to reach me: MY email id is akashsingha0910@gmail.com
 
 <!---
